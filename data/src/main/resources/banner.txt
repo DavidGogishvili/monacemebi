@@ -1,0 +1,22 @@
+
+DDDDDDDDDDDDD
+D::::::::::::DDD
+D:::::::::::::::DD
+DDD:::::DDDDD:::::D
+  D:::::D    D:::::D  aaaaaaaaaaaaavvvvvvv           vvvvvvv
+  D:::::D     D:::::D a::::::::::::av:::::v         v:::::v
+  D:::::D     D:::::D aaaaaaaaa:::::av:::::v       v:::::v
+  D:::::D     D:::::D          a::::a v:::::v     v:::::v
+  D:::::D     D:::::D   aaaaaaa:::::a  v:::::v   v:::::v
+  D:::::D     D:::::D aa::::::::::::a   v:::::v v:::::v
+  D:::::D     D:::::Da::::aaaa::::::a    v:::::v:::::v
+  D:::::D    D:::::Da::::a    a:::::a     v:::::::::v
+DDD:::::DDDDD:::::D a::::a    a:::::a      v:::::::v
+D:::::::::::::::DD  a:::::aaaa::::::a       v:::::v
+D::::::::::::DDD     a::::::::::aa:::a       v:::v
+DDDDDDDDDDDDD         aaaaaaaaaa  aaaa        vvv
+
+
+
+
+(c) David Gogishvili
